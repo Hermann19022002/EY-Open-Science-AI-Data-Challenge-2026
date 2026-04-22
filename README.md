@@ -166,7 +166,7 @@ Both are Data Scientist students at **ENSAI** (École Nationale de la Statistiqu
 
 ## License
 
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+This project is released under the MIT License. 
 
 ---
 
