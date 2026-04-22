@@ -94,12 +94,6 @@ We used **GroupKFold by station** (5 folds, groups = stations) rather than rando
 | DRP | LightGBM | 0.6964 | 15.95 |
 | **Mean** | | **0.7686** | |
 
-### Official leaderboard (24 unseen sites)
-
-**R² = 0.3629 — 3rd place France finals**
-
-The gap between internal R² (0.77) and leaderboard (0.36) reflects the intrinsic difficulty of spatial generalization when validation sites are geographically isolated from any training site.
-
 ---
 
 ## Key Insights
