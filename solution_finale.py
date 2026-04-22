@@ -5,7 +5,7 @@
 EY AI & DATA CHALLENGE 2026 — SOLUTION FINALE
 ================================================================================
 Equipe    : Hermann & Neville
-Score LB  : 0.3629 (R² moyen sur TA, EC, DRP)
+Score LB  : R² moyen sur TA, EC, DRP
 
 Approche  :
   - Features : 13 variables (Landsat + TerraClimate + temporelles + géographiques)
